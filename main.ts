@@ -37,7 +37,7 @@ basic.showLeds(`
     # # . # #
     # . # . #
     . # . # .
-    # . # . #
+    # . # . .
     # # . # #
     `)
 basic.showLeds(`
